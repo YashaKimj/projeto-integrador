@@ -1,0 +1,172 @@
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(255, 255, 255);
+    color: #00607E;
+
+}
+
+.menu li {
+    margin-left: 10px;
+}
+
+.header {
+    display: flex;
+    background-color: #116DA6;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: -16px;
+    margin-right: -8px;
+    margin-left: -8px;
+}
+
+img {
+    display: flex;
+    width: 1561px;
+    height: 300px;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.CT {
+    position: absolute;
+    width: 115px;
+    height: 25px;
+    left: 8px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+    margin-top: 205px;
+
+}
+
+.CN {
+    position: absolute;
+    width: 115px;
+    height: 25px;
+    left: 200px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+    margin-top: 205px;
+
+}
+
+.D {
+
+    position: absolute;
+    width: 115px;
+    height: 25px;
+    left: 400px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+    margin-top: 205px;
+}
+
+.O {
+    position: absolute;
+    width: 115px;
+    height: 25px;
+    left: 600px;
+    top: 100px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+    margin-top: 205px;
+}
+
+.divBusca {
+    position: absolute;
+    width: 500px;
+    height: 20px;
+    left: 1000px;
+    top: 304px;
+    background: #D9D9D9;
+    border-radius: 57px;
+    text-align: center;
+    text-align: left;
+}
+
+.DS {
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+
+.icone1 {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 30px;
+    top: 600px;
+    background: #AFE6FF;
+    border-radius: 21px;
+}
+
+.icone2 {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 285px;
+    top: 600px;
+
+    background: #AFE6FF;
+    border-radius: 21px;
+}
+
+.icone3 {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 540px;
+    top: 600px;
+
+    background: #AFE6FF;
+    border-radius: 21px;
+}
+
+
+
+.icone4 {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 795px;
+    top: 600px;
+    background: #AFE6FF;
+    border-radius: 21px;
+}
+
+.icone5 {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1050px;
+    top: 600px;
+
+    background: #AFE6FF;
+    border-radius: 21px;
+}
+
+.icone6 {
+    position: absolute;
+    width: 190px;
+    height: 251px;
+    left: 1300px;
+    top: 600px;
+    background: #AFE6FF;
+    border-radius: 21px;
+
+}
