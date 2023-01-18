@@ -103,7 +103,7 @@ function init() {
 
     // const words = JSON.parse(txtElement.getAttribute('data-words'));
 
-    const words = [' papelaria novo mundo', 'papelaria novo mundo'];
+    const words = [' Papelaria novo mundo', 'Papelaria novo mundo'];
 
 
 
