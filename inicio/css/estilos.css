@@ -4,6 +4,7 @@ body {
     text-align: center;
     font-family: 'Fredericka the Great', cursive;
     background-color: #0c4c83;
+    opacity: 100%;
 }
 
 .menu {
@@ -13,7 +14,7 @@ body {
 .menu li a {
     display: block;
     padding: 8px;
-    background-color: rgb(248, 248, 248);
+    background-color: rgb(0, 0, 0);
     color: #000000;
 
 }
@@ -36,6 +37,7 @@ body {
 
 
 .menu1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000;
     position: absolute;
     width: 115px;
@@ -43,7 +45,7 @@ body {
     left: 8px;
     top: 100px;
     margin-top: 8px;
-    background: #D9D9D9;
+    background: #ffffff;
     border-radius: 57px;
     text-align: center;
 
@@ -51,6 +53,7 @@ body {
 }
 
 .menu2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000;
     position: absolute;
     width: 115px;
@@ -58,7 +61,7 @@ body {
     left: 200px;
     top: 100px;
     margin-top: 8px;
-    background: #D9D9D9;
+    background: #ffffff;
     border-radius: 57px;
     text-align: center;
 
@@ -66,6 +69,7 @@ body {
 }
 
 .menu3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000;
     position: absolute;
     width: 115px;
@@ -73,13 +77,14 @@ body {
     left: 400px;
     top: 100px;
     margin-top: 8px;
-    background: #D9D9D9;
+    background: #ffffff;
     border-radius: 57px;
     text-align: center;
 
 }
 
 .menu4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000;
     position: absolute;
     width: 115px;
@@ -87,10 +92,9 @@ body {
     left: 600px;
     top: 100px;
     margin-top: 8px;
-    background: #D9D9D9;
+    background: #ffffff;
     border-radius: 57px;
     text-align: center;
-
 }
 
 .divBusca {
@@ -106,6 +110,7 @@ body {
 }
 
 .DS {
+
     color: #000000;
 
 }
@@ -116,75 +121,79 @@ body {
 
 
 .icone1 {
-
+   
     position: absolute;
     width: 190px;
     height: 251px;
     left: 30px;
     top: 310px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
 .icone2 {
+    
     position: absolute;
     width: 190px;
     height: 251px;
     left: 285px;
     top: 310px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
 .icone3 {
+    
     position: absolute;
     width: 190px;
     height: 251px;
     left: 540px;
     top: 310px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
 
 
 .icone4 {
+    
     position: absolute;
     width: 190px;
     height: 251px;
     left: 795px;
     top: 310px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
 .icone5 {
+    
     position: absolute;
     width: 190px;
     height: 251px;
     left: 1050px;
     top: 310px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 }
 
 .icone6 {
+
     position: absolute;
     width: 190px;
     height: 251px;
     left: 1300px;
     top: 310px;
-    background: #AFE6FF;
+    background: #ffffff;
     border-radius: 21px;
 
 }
 
 .iten1 {
+
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 1320px;
     top: 320px;
     background: #ffffff;
@@ -193,9 +202,7 @@ body {
 .iten2 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 50px;
     top: 320px;
     background: #ffffff;
@@ -204,9 +211,7 @@ body {
 .iten3 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 305px;
     top: 320px;
     background: #ffffff;
@@ -215,9 +220,7 @@ body {
 .iten4 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 560px;
     top: 320px;
     background: #ffffff;
@@ -226,24 +229,23 @@ body {
 .iten5 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 815px;
-
     background: #ffffff;
 }
 
 .iten6 {
     position: absolute;
     width: 149px;
-    /*   largura */
+   
     height: 145px;
-    /* altura */
+    
     left: 1070px;
     top: 320px;
     background: #ffffff;
 }
+
+
 
 .texto1 {
     text-align: left;
@@ -289,7 +291,6 @@ body {
 }
 
 .texto5 {
-
     text-align: left;
     position: absolute;
     width: 190px;
@@ -297,8 +298,6 @@ body {
     left: 1056px;
     top: 480px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
-
 }
 
 .texto6 {
@@ -317,67 +316,54 @@ body {
 .iten1 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 1320px;
     top: 320px;
-    background: #ffffff;
+    background: #000000;
 }
 
 .iten2 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 50px;
     top: 320px;
-    background: #ffffff;
+    background: #000000;
 }
 
 .iten3 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 305px;
     top: 320px;
-    background: #ffffff;
+    background: #000000;
 }
 
 .iten4 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 560px;
     top: 320px;
-    background: #ffffff;
+    background: #050505;
 }
 
 .iten5 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 815px;
-
-    background: #ffffff;
+    background: #000000;
 }
 
 .iten6 {
     position: absolute;
     width: 149px;
-    /*   largura */
     height: 145px;
-    /* altura */
     left: 1070px;
     top: 320px;
-    background: #ffffff;
+    background: #000000;
 }
 
 
@@ -444,6 +430,50 @@ body {
     top: 520px;
 
 }
+
+
+
+.bloco1 {
+
+    background-color: rgb(255, 255, 255);
+    border: 0.1px solid;
+    border-color: black;
+    height: 200px;
+    width: 300px;
+    box-shadow: 19px -15px 0px rgb(172, 243, 255);
+    margin-left: 230px;
+    margin-top: 500px;
+    border-radius: 50%
+}
+
+.bloco2 {
+
+    background-color: rgb(255, 255, 255);
+    border: 0.1px solid;
+    border-color: black;
+    height: 200px;
+    width: 300px;
+    box-shadow:19px -15px 0px rgb(172, 243, 255);
+    border-radius: 50%;
+    margin-left: 1000px;
+    margin-top: -200px;
+
+}
+
+.produto{
+    width: 30px;
+    height: 30px;
+}
+.caderno{
+    width: 30px;
+    height: 30px;
+}
+.produto{
+    width: 30px;
+    height: 30px;
+}
+
+
 
 
 
